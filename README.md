@@ -19,7 +19,7 @@
   <h2>🌐 Find me on the web:</h2>
 
   <ul>
-    <li> <a href="https://www.linkedin.com/in/dennismutwoki/"><img alt="Linkedin" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin"></a> | <a href="https://twitter.com/dennis_mureti"><img alt="Twitter" src="https://img.shields.io/badge/followers-1-blue?color=blue&logo=twitter"></a> | <a href="https://medium.com/@dennismureti47"><img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium"></a> |  <a href="https://dev.to/dennismureti"><img alt="Dev" src="https://img.shields.io/badge/dev+-lightgrey?color=lightgrey&logo=dev"></a> | <a href="https://dennismureti-jyqq459lg-dennis-mureti.vercel.app/"><img alt="dennismureti" src="https://img.shields.io/badge/dev+-lightgrey?color=lightgrey&logo=dev"></a>
+    <li> <a href="https://www.linkedin.com/in/dennismutwoki/"><img alt="Linkedin" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin"></a> | <a href="https://twitter.com/dennis_mureti"><img alt="Twitter" src="https://img.shields.io/badge/followers-1-blue?color=blue&logo=twitter"></a> | <a href="https://medium.com/@dennismureti47"><img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium"></a> |  <a href="https://dev.to/dennismureti"><img alt="Dev" src="https://img.shields.io/badge/dev+-lightgrey?color=lightgrey&logo=dev"></a> | <a href="https://dennismureti-jyqq459lg-dennis-mureti.vercel.app/"><img alt="dennismureti" src="https://img.shields.io/badge/dennismureti+-lightgrey?color=lightgrey&logo=dev"></a>
     <li>📫 Reach me via email: dennismureti47@gmail.com</li>
   </ul>
 
