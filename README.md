@@ -42,8 +42,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/master/java/client/src/test/resources/org/openqa/selenium/images/selenium-hq-logo.png" alt="selenium" width="40" height="40"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/seleniumHQ/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/>
+ </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
