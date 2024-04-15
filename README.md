@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg](https://github.com/get-icon/geticon/blob/master/icons/selenium.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -86,8 +86,8 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
- <a href="https://laravel.com/" target="_blanc" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel.svg" alt="laravel" width="40" height="40"/>
  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
