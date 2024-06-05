@@ -14,7 +14,7 @@
 
   <p> - 🧑‍💻 I  am also part of Blockchain development community (https://kibokodao.org/)</p>
 
-  <p> - 🌱 Curretly learning Python, machine learning, azure</p>
+  <p> - 🌱 Curretly learning Python, machine learning, web3</p>
 
   <h2>🌐 Find me on the web:</h2>
 
