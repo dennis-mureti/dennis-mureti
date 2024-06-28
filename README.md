@@ -10,7 +10,7 @@
 
   <p>A passionate software Engineer.</p>
   
-  <p> 🔭 I am currently working as a full stack Sofware Engineer, Blockchain Developer, Data scientist, mobile developer and Technical writer.</p>
+  <p> 🔭 I am currently working as a Full Stack Sofware Engineer, Blockchain Developer, Data scientist, mobile developer and Technical writer.</p>
 
   <p> - 🧑‍💻 I  am also part of Blockchain development community (https://kibokodao.org/)</p>
 
