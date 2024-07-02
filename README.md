@@ -26,7 +26,7 @@
   <h2>Current Projects</h2>
 
   <h3>NFT Token</h3>
-  <p>NFT/Blockchain Project to sensitize the african culture and broadcast the kenyan culture to the world through digital assets in the form of matatu culture.</p>
+  <p>NFT/Blockchain Project to sensitize the african culture and broadcast the kenyan culture to the world through digital assets in form of matatu culture.</p>
 
   <h3>Algonera</h3>
   <p>A Digital solutions implementation company offering innovative quality and digital enterprise solutions for clients all over the world through collaboration, research and development. (https://algonera.vercel.app) </p>
