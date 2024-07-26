@@ -12,7 +12,7 @@
   
   <p> 🔭 I am currently working as a Full Stack Sofware Engineer, Blockchain Developer, Data scientist, Mobile Developer and Technical Writer.</p>
 
-  <p> - 🧑‍💻 I  am also part of Blockchain development community (https://kibokodao.org/)</p>
+  <p> - 🧑‍💻 I am also part of Blockchain development community (https://kibokodao.org/)</p>
 
   <p> - 🌱 Curretly learning Python, machine learning, web3</p>
 
